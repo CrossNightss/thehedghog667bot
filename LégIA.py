@@ -44,4 +44,4 @@ async def say(ctx, message=None):
 
 
 
-bot.run('OTM2MzY1OTkxMTYyNzA4MDA5.YfMIyQ.TE7fCCUokowXafRjRlshS99mvz0')
+bot.run('TOKENNN')
